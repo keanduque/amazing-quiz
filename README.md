@@ -4,7 +4,26 @@ this app is a Quiz App created in React,
 this app can do the following :
 
 -   Question and Answer for Quiz
--   interactive UI
+-   Interactive UI
+-   Loading the question from Fake API data/questions.json
+-   Handling the Loading, Error and Ready status
+-   Start new Quiz
+-   Displaying Questions
+-   Handing new Answers
+-   Moving to the Next Question
+-   Displaying Progress bar based on current index out of the question length and score points
+-   Finishing the Quiz
+-   Restarting the Quiz
+-   Adding the Countdown timer
+
+## Future enhancement:
+
+-   Random Questions
+-   start screen
+    -   allow the user to only select a certain number of questions
+    -   filter the difficulty of questions
+    -   upload the highscore to the fake api, so that if user reload that could fetch the highscore and place to the state to not lose the value.
+    -   store the answer in array answer instead of null.
 
 ## Other Info:
 
