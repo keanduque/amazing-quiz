@@ -1,6 +1,6 @@
 :root {
-    --color-darkest: #343a40;
-    --color-dark: #495057;
+    --color-darkest: #a1290b;
+    --color-dark: #ee642e;
     --color-medium: #ced4da;
     --color-light: #f1f3f5;
 
@@ -41,7 +41,7 @@ body {
 }
 
 .app-header {
-    width: 66rem;
+    /* width: 66rem; */
     margin-bottom: 4rem;
     display: flex;
     align-items: center;
