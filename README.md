@@ -31,6 +31,10 @@ Node version : v18.16.0
 
 In the project directory, you can run:
 
+## React Features:
+
+-   useReducer, useEffect
+
 ### `npm start`
 
 Runs the app in the development mode.\
