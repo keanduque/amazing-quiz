@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amazing-quiz/static/css/main.872bf39a.css",
+    "main.js": "/amazing-quiz/static/js/main.41f17f57.js",
+    "index.html": "/amazing-quiz/index.html",
+    "main.872bf39a.css.map": "/amazing-quiz/static/css/main.872bf39a.css.map",
+    "main.41f17f57.js.map": "/amazing-quiz/static/js/main.41f17f57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.872bf39a.css",
+    "static/js/main.41f17f57.js"
+  ]
+}
