@@ -31,6 +31,22 @@ Node version : v18.16.0
 
 In the project directory, you can run:
 
+## Other Tools & Library
+
+for Fake API data/cities.json
+
+```node
+npm i json-server
+
+# add this line under the scripts under package.json
+"scripts": {
+    "...",
+    "server": "json-server --watch data/cities.json --port 8000"
+},
+
+http://localhost:8000/questions
+```
+
 ## React Features:
 
 -   useReducer, useEffect
