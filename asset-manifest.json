@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/amazing-quiz/static/css/main.872bf39a.css",
-    "main.js": "/amazing-quiz/static/js/main.41f17f57.js",
+    "main.js": "/amazing-quiz/static/js/main.fb0ddd3c.js",
     "index.html": "/amazing-quiz/index.html",
     "main.872bf39a.css.map": "/amazing-quiz/static/css/main.872bf39a.css.map",
-    "main.41f17f57.js.map": "/amazing-quiz/static/js/main.41f17f57.js.map"
+    "main.fb0ddd3c.js.map": "/amazing-quiz/static/js/main.fb0ddd3c.js.map"
   },
   "entrypoints": [
     "static/css/main.872bf39a.css",
-    "static/js/main.41f17f57.js"
+    "static/js/main.fb0ddd3c.js"
   ]
 }
