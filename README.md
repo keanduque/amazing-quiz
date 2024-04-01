@@ -15,6 +15,7 @@ this app can do the following :
 -   Finishing the Quiz
 -   Restarting the Quiz
 -   Adding the Countdown timer
+-   Convert Prop drilling Component into Context API QuizContext with custom hook
 
 ## Future enhancement:
 
